@@ -1,0 +1,15 @@
+.image {
+    height: 100px;
+    width: 75px;
+}
+
+.wholeProduct {
+    display: flex;
+    width: 200px;
+    height: 150px;
+}
+
+.itemPrice {
+    display: flex;
+    flex-direction: column;
+}
